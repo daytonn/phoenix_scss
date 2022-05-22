@@ -8,7 +8,7 @@ defmodule PhoenixScss.MixProject do
       elixir: "~> 1.13",
       preferred_cli_env: [espec: :test],
       start_permanent: Mix.env() == :prod,
-      version: "0.1.0"
+      version: "0.1.1"
     ]
   end
 
